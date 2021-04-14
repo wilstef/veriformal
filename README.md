@@ -1,4 +1,4 @@
-# Veriformal
+# VeriFormal
 This repository contains source codes of the hardware description language (HDL) VeriFormal, an executable simulator in OCaml and a translator that translates codes in Verilog to VeriFormal. The Isabelle/HOL source code of the HDL VeriFormal is given in the VeriFormal.zip. 
   The C++ source code of the translator is given in Verilog-HOL translator.zip
   
